@@ -80,7 +80,7 @@ public class Operaciones extends javax.swing.JFrame {
             n1 = Integer.parseInt(JOptionPane.showInputDialog("Ingresar 1er valor:"));
             n2 = Integer.parseInt(JOptionPane.showInputDialog("Ingresar 2º valor:"));
             JOptionPane.showMessageDialog(this, "La división es: " + (n1 / n2));
-        }
+        }//gfhdgdet
 
     }//GEN-LAST:event_jButton1ActionPerformed
 
